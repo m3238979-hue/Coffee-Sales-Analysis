@@ -1,4 +1,4 @@
-# Coffee-Sales-Analysis
+#### Coffee-Sales-Analysis
  📌 Project Overview
  
 This report provides a comprehensive analysis of coffee sales from a vending machine. 
